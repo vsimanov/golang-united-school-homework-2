@@ -1,3 +1,3 @@
-module golang-united-school-homework-2
+module solution
 
 go 1.17
